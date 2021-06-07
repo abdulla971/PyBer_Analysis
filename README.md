@@ -1,5 +1,5 @@
 # PyBer Analysis
-The analysis and visualization of ride-sharing data was performed using Python in this week's challenge.
+The analysis and visualization of ride-sharing data was performed using Python, Pandas and Matplotlib in this week's challenge.
 
 
 ## Resources 
